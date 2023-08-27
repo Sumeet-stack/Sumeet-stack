@@ -2,6 +2,7 @@
 <h3 align="center">Exploring Tech and Tunes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeet-stack&label=Profile%20views&color=0e75b6&style=flat" alt="sumeet-stack" /> </p>
+<img align="right" alt="coding" width ="400" src="https://github.com/Sumeet-stack/Sumeet-stack/blob/main/PsKr.gif">
 
 - 🔭 I’m currently working on [Twitter Sentiment Analysis](https://github.com/Sumeet-stack/twittersentiment)
 
