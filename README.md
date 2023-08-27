@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/Sumeet-stack/Sumeet-stack/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sumeet Sonawane</h1>
 <h3 align="center">Exploring Tech and Tunes</h3>
 
